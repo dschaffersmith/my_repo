@@ -4,6 +4,8 @@
 ## plot_data.R plots the data
 ## run_analysis.R runs the analysis
 
+## THIS LINE IS DIFFERENT THAN WHAT I ADDED IN MY LOCAL DIRECTORY
+
 ## load required packages
 library(dplyr)
 library(readr)
