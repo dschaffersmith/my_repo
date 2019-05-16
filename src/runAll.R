@@ -4,6 +4,8 @@
 ## plot_data.R plots the data
 ## run_analysis.R runs the analysis
 
+## THIS FILE STILL DOES NOT RUN
+
 ## load required packages
 library(dplyr)
 library(readr)
