@@ -2,7 +2,7 @@
 #' into a data frame called gm182, which will serve as the intermediate data for
 #' subsequent analysis
 
-# ADDED LINE TO GENERATE A CONFLICT
+## CONFLICT RESOLVED
 
 # Read in data
 # positional data about the RV Kahuna
